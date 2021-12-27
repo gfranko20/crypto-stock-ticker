@@ -1,9 +1,8 @@
 import requests
-import pandas as pd
 from bs4 import BeautifulSoup 
 import time
 from datetime import datetime
-from market_open import current_day, is_time_between, market_open
+
 
 #Get current time, used for testing purposes
 def get_time():
