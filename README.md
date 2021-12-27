@@ -1,4 +1,4 @@
-# crypto-ticker
+# crypto/stock-ticker
 
 
 
